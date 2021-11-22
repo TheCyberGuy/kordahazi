@@ -1,0 +1,29 @@
+html{
+    background-image: url('https://besthqwallpapers.com/Uploads/23-8-2017/19145/thumb2-ujpest-fc-hungarian-football-club-ujpest-emblem-logo-silk-flag.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+
+img{
+    margin: 128px;
+    height: 256px;
+}
+
+.main {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;    
+    color: white;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    
+}
+a{
+
+text-decoration: none;
+ color: blueviolet;   
+}
